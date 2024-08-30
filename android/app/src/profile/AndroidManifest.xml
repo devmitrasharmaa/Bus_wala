@@ -1,0 +1,10 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.busbookingapp">
+
+    <application
+        android:name="io.flutter.app.FlutterApplication"
+        android:label="busbookingapp"
+        android:icon="@mipmap/ic_launcher">
+    </application>
+
+</manifest>
